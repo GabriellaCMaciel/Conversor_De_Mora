@@ -1,0 +1,45 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Remove estilos padrão de listas */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Remove sublinhado e cor padrão de links */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Garante herança de fontes */
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color: #fff;
+    color: #000;
+}
+
+/* Tira a borda padrão de inputs e buttons */
+input,
+button,
+textarea,
+select {
+    font: inherit;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+/* Remove estilos padrão de botões */
+button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+}
