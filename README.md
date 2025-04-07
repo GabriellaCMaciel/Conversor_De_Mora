@@ -93,8 +93,21 @@ O projeto utiliza um layout com:
 
  - Adição de outras moedas (Euro, Yen etc.)
 
-## 🎮 Curiosidade
-No universo de Genshin Impact, a Mora é essencial para melhorar armas, talentos e personagens. Já pensou quanto valeria tudo que você gasta no jogo? Agora você pode converter e descobrir!
+## 🌟 Viajante Curioso — Curiosidades sobre a Mora
+> Um toque de lore pra deixar o projeto ainda mais mágico ✨
+No universo de Genshin Impact, a Mora é essencial para melhorar armas, talentos e personagens. Já pensou quanto valeria tudo que você gasta no jogo? Agora você pode converter e descobrir!   
+### 🪙 O que é Mora?
+Mora é a moeda principal do jogo Genshin Impact, usada em quase todas as ações importantes: upar personagens, melhorar armas, talentos, cozinhar, fazer compras… tudo gira em torno dela!
+
+### 🏛️ De onde vem a Mora?
+A Mora é criada pela própria Arconte Geo, Morax (Zhongli), o deus dos contratos. Ele literalmente imprime a moeda divina de Teyvat — sim, é quase um banco central ambulante!
+
+### 💸 Quanto vale uma Mora no mundo real?   
+No jogo, ações simples como preparar uma comida ou fazer um upgrade custam entre 1.000 e 10.000 Moras. Com base nisso, estimamos que 1.000 Moras ≈ R$10,75, o que nos dá o valor usado no conversor.
+
+### 😅 Mora é infinita?
+Apesar de ser criada por um Arconte, a Mora é finita para os jogadores — e sempre falta quando você mais precisa! Quem joga sabe o sofrimento! 😂
+
 
 ## 🤝 Contribuições
 Ideias, sugestões ou melhorias são super bem-vindas!
