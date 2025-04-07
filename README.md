@@ -36,7 +36,7 @@ A proposta é ser um projeto simples, temático e funcional, utilizando apenas *
 
 ## 🎮 Demonstração 
 
-![Demonstração do projeto](demonstracao.gif)
+![Demonstração do projeto](src/gif/demonstracao.gif)
 
 ## 📂 Estrutura de Arquivos
 ```
