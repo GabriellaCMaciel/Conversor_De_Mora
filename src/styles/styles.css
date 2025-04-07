@@ -1,69 +1,68 @@
 /* Global Styles */
 body {
-    background-color: black;
-    margin: 0;
-    padding: 0;
-    font-family: 'genshinT', sans-serif;
-    color: white;
-    position: relative;
-  }
-  
-  /* Logo Styles */
-  .logo {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    max-width: 150px;
-    width: auto;
-  }
-  
-  /* Container with the background image */
-  .container {
-    background: url('https://staticg.sportskeeda.com/editor/2021/07/70778-16251765586964-800.jpg?w=640') no-repeat center center/cover;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  /* Content div for text and button */
-  .content {
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px 40px;
-    border-radius: 8px;
-  }
-  
-  .content h2 {
-    margin-bottom: 20px;
-  }
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'genshinT', sans-serif;
+  color: white;
+  position: relative;
+}
 
-  .content p {
-    margin-bottom: 8px;
-  }
-  
-  /* Button Styles */
-  button {
-    background-color: #FFA630;
-    border: none;
-    border-radius: 3px;
-    padding: 10px 20px;
-    font-size: 1.2em;
-    color: white;
-    cursor: pointer;
-    transition: background-color 0.4s ease, transform 0.2s ease, box-shadow 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #413723;
-    scale: 1.1;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.568), 
-              0 0 20px rgba(173, 172, 172, 0.3);
-  }
-  
-  /* Footer Styles */
-  footer {
-    text-align: center;
-    padding: 10px;
-  }
-  
+/* Logo Styles */
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+}
+
+/* Container with the background image */
+.container {
+  background: url('https://staticg.sportskeeda.com/editor/2021/07/70778-16251765586964-800.jpg?w=640') no-repeat center center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Content div for text and button */
+.content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px 40px;
+  border-radius: 8px;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+}
+
+.content p {
+  margin-bottom: 8px;
+}
+
+/* Button Styles */
+button {
+  background-color: #FFA630;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.4s ease, transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+  background-color: #413723;
+  scale: 1.1;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.568),
+    0 0 20px rgba(173, 172, 172, 0.3);
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 10px;
+}
