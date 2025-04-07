@@ -44,6 +44,7 @@ conversor-mora/
 ├── index.html
 ├── script.js
 └── src/
+  └── gif/
   └── fonts/
   └── styles/
     ├── fonts.css
@@ -98,9 +99,6 @@ No universo de Genshin Impact, a Mora é essencial para melhorar armas, talentos
 ## 🤝 Contribuições
 Ideias, sugestões ou melhorias são super bem-vindas!
 Você pode abrir uma issue ou enviar um pull request com suas propostas. 💡
-
-## 🤝 Agradecimentos
-Agradecimentos à Alura pela Imersão Dev 2025, e à comunidade de desenvolvedores que compartilha conhecimento diariamente.
 
 ## 🪪 Licença
 Este projeto é livre para uso e está sob a licença MIT.   
