@@ -100,7 +100,7 @@ No universo de Genshin Impact, a Mora é essencial para melhorar armas, talentos
 Mora é a moeda principal do jogo Genshin Impact, usada em quase todas as ações importantes: upar personagens, melhorar armas, talentos, cozinhar, fazer compras… tudo gira em torno dela!
 
 ### 🏛️ De onde vem a Mora?
-A Mora é criada pela própria Arconte Geo, Morax (Zhongli), o deus dos contratos. Ele literalmente imprime a moeda divina de Teyvat — sim, é quase um banco central ambulante!
+A Mora é criada pelo próprio Arconte Geo, Morax (Zhongli), o deus dos contratos. Ele literalmente imprime a moeda divina de Teyvat — sim, é quase um banco central ambulante!
 
 ### 💸 Quanto vale uma Mora no mundo real?   
 No jogo, ações simples como preparar uma comida ou fazer um upgrade custam entre 1.000 e 10.000 Moras. Com base nisso, estimamos que 1.000 Moras ≈ R$10,75, o que nos dá o valor usado no conversor.
